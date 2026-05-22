@@ -1,0 +1,8 @@
+- Bacteriúria assintomática
+	- Deve ser sempre tratada
+	- Medicação
+		- Fosfomicina trometamol em dose única
+		- Clavulin por 7 dias
+- ITU de repetição
+	- Antibiótico profilaxia
+	- Nitrofurantoína

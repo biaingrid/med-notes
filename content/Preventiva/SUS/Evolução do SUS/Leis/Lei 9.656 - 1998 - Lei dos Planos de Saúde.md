@@ -1,0 +1,1 @@
+A **Lei 9.656/98** (Lei dos Planos de Saúde) prevê que, quando um beneficiário de plano de saúde utiliza o SUS para procedimentos cobertos pelo plano, a operadora deve **ressarcir o SUS** pelos serviços prestados. A Agência Nacional de Saúde Suplementar (ANS) é responsável por cobrar esse ressarcimento das operadoras.

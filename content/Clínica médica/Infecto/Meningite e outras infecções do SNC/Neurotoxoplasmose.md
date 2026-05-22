@@ -1,0 +1,3 @@
+- Tratamento
+	- Pirimetamina + sulfadiazina + ácido folínico
+	- Alternativa: sulfametoxazol-trimetoprima

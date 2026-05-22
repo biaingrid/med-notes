@@ -1,0 +1,10 @@
+- **Viés de seleção**
+	- Forma como participantes são recrutados
+	- Amostra que não representa a população-alvo
+- **Viés de informação/classificação**
+	- Erro sistemático na coleta ou medição das informações sobre a exposição ou o desfecho
+- **Viés de memória**
+- **Viés de desejabilidade social**
+	- De forma consciente ou subconsciente, subestimar ou superestimar quantidades relatas (ex.: consumo de álcool)
+- **Viés de confusão**
+	- É uma variável que está associada tanto à exposição (o novo tratamento) quanto ao desfecho (sobrevivência), e que não é um elo na cadeia causal entre eles.

@@ -1,0 +1,14 @@
+- **AAS**
+	- Intoxicação
+		- Padrão ouro: combinação de alcalose respiratória primária com acidose metabólica de alto ânion gap
+			- <u>Alcalose Respiratória:</u> Os salicilatos têm um efeito direto e potente de estimulação do centro respiratório bulbar. Isso leva a um aumento da frequência e profundidade da respiração (hiperventilação ou taquipneia), resultando na eliminação excessiva de dióxido de carbono (CO2). A redução do PCO2 no sangue eleva o pH, causando a alcalose respiratória.
+			- <u>Acidose Metabólica de Alto Ânion Gap:</u> Em doses tóxicas, os salicilatos interferem em diversas vias metabólicas celulares:
+				- Desacoplamento da Fosforilação Oxidativa: Isso impede a produção eficiente de ATP e aumenta a produção de calor (podendo levar à hipertermia).
+				- Inibição de Enzimas do Ciclo de Krebs: Prejudica o metabolismo aeróbico.
+				- Aumento da Produção de Lactato: A disfunção metabólica leva à produção excessiva de ácido lático.
+				- Acúmulo de Outros Ácidos Orgânicos: Os próprios salicilatos são ácidos e contribuem para a carga ácida. Esses mecanismos resultam no acúmulo de ânions ácidos não mensuráveis, elevando o ânion gap e causando a acidose metabólica.
+		- Manifestação clínica:
+			- Sintomas precoces: Náuseas, vômitos, dor abdominal, zumbido (tinnitus), perda auditiva, hiperventilação.
+			- Sintomas moderados a graves: Diaforese (sudorese), desidratação, agitação, confusão mental, alucinações, convulsões, coma, hipertermia, edema pulmonar não cardiogênico, insuficiência renal aguda, arritmias cardíacas. A sonolência da paciente se encaixa nesse espectro.
+	- Antídoto
+		- O tratamento é principalmente de suporte, com correção dos distúrbios hidroeletrolíticos e ácido-base, e pode incluir alcalinização da urina para aumentar a excreção renal do salicilato, ou hemodiálise em casos graves. Não há um antídoto específico como a NAC.

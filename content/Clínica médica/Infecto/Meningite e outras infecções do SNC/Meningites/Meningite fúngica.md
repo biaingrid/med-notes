@@ -1,0 +1,27 @@
+- **Etiologia**
+	- _Cryptococcus neoformans_
+- **Quadro clínico**
+	- Febre
+	- Cefaleia
+	- Náuseas e vômitos
+	- Sonolência
+	- Rigidez de nuca
+- **Exames**
+	- TC de crânio
+		- Normal ou achados inespecíficos
+	- LCR
+		- Discreta pleocitose linfocítica (<50 céls/mm³)
+		- Hiperproteinorraquia
+		- Glicorraquia normal ou levemente reduzida
+- **Diagnóstico**
+	- Pesquisa de antígeno capsular de _Cryptococcus_ no LCR >> ==teste do látex ou imunoensaio==
+		- Alta sensibilidade e especificidade
+- **Tratamento**
+	- Anfotericina B (preferencialmente lipossomal)
+		- Associada ou não à flucitosina
+		- Seguido por fluconazol para consolidação e manutenção
+- **Paciente imunocomprometido**
+	- O perfil de LCR em um paciente HIV+ é sugestivo de meningite fúngica 
+		- Etiologia principal: criptocócica
+	- _Cryptococcus neoformans_
+		- Infecções oportunistas mais comuns do SNC em pacientes com HIV/AIDS >> principalmente naqueles com imunossupressão avançada (contagem de CD4 baixa) e adesão irregular ao tratamento

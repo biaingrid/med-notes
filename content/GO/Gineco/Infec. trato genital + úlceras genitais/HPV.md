@@ -1,0 +1,6 @@
+- **Característica das lesões**
+	- Lesões elevadas, serrilhadas e pruriginosas
+- **Rastreamento**
+	- Citologia oncótica
+- **Terapia**
+	- Para lesões visíveis e sintomáticas: cauterização química com ácido tricloroacético (ATA) >> inclusive lesões interna na parede vaginal

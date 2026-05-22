@@ -1,0 +1,4 @@
+- **Levotiroxina sódica**
+	- Efeitos adversos:
+		- <u>Hiperglicemia:</u> Em doses excessivas, levando a um estado de hipertireoidismo iatrogênico, a levotiroxina pode aumentar o metabolismo basal e a gliconeogênese, o que pode elevar a glicemia
+		- I<u>nsônia:</u> pode ocorrer em doses excessivas.
