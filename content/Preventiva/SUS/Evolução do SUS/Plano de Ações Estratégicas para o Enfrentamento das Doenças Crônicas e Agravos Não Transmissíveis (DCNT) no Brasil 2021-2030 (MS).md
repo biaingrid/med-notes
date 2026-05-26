@@ -1,2 +1,0 @@
-- Aumento na cobertura de mamografia de rastreamento em mulheres na faia etária de 50 - 69 anos entre 2010 e 2019
-- O _conjunto_ das DCNT – que inclui doenças cardiovasculares, cânceres, diabetes, doenças respiratórias crônicas, além de violências e acidentes – é responsável por aproximadamente 75% dos óbitos no país

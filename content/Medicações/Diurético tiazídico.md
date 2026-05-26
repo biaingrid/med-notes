@@ -1,4 +1,0 @@
-- Hidroclorotiazida
-	- Efeito adverso:
-		- Hiperglicemia: podem diminuir a secreção de insulina e aumentar a resistência à insulina, elevando os níveis de glicose no sangue
-		- Câimbras: hipocalemia

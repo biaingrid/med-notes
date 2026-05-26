@@ -1,5 +1,0 @@
-- **Ibuprofeno**
-	- Intoxicação
-		- A superdosagem geralmente causa sintomas gastrointestinais (náuseas, vômitos, dor abdominal), disfunção renal aguda e, em casos mais graves, depressão do sistema nervoso central e convulsões.
-	- Antídoto
-		- O tratamento é de suporte, com lavagem gástrica (se precoce), carvão ativado e manejo sintomático. Não existe um antídoto específico.

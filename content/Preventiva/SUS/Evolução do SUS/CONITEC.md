@@ -1,7 +1,0 @@
-<center><font color="#4f81bd">CONITEC ou Comissão Nacional de Incorporação de Tecnologias no SUS</font></center>
-A CONITEC, criada pela Lei nº 12.401/2011, é o órgão consultivo do Ministério da Saúde responsável por assessorar o Ministério na ==incorporação, exclusão ou alteração de novas tecnologias em saúde no SUS==, bem como na constituição ou alteração de Protocolos Clínicos e Diretrizes Terapêuticas (PCDT). Isso inclui medicamentos, produtos e procedimentos.
-
-- **Lei nº 12.401/2011:** Marco legal que regulamentou a assistência terapêutica e a incorporação de tecnologias em saúde no âmbito do SUS, formalizando o papel da CONITEC.
-- **Protocolos Clínicos e Diretrizes Terapêuticas (PCDT):** Documentos que estabelecem os critérios de diagnóstico, tratamento e acompanhamento de doenças específicas, incluindo a lista de medicamentos e tecnologias disponíveis no SUS para cada condição.
-
-- **Confundir CONITEC com ANVISA:** A ANVISA (Agência Nacional de Vigilância Sanitária) é responsável pelo registro e fiscalização de produtos e serviços de saúde no Brasil, garantindo sua segurança e qualidade. A CONITEC, por sua vez, decide sobre a _incorporação_ desses produtos e serviços no SUS, após o registro da ANVISA. São papéis complementares, mas distintos.

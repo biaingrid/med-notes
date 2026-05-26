@@ -1,1 +1,0 @@
-![[Resumo-Sindromes Febris.pdf]]

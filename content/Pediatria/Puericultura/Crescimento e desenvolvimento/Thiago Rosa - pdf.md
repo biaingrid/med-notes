@@ -1,1 +1,0 @@
-![[Resumo-Crescimento e Desenvolvimento.pdf]]

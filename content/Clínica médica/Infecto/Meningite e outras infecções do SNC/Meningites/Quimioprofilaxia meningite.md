@@ -1,2 +1,0 @@
-[[Antimicrobiano|Rifampicina]]
-

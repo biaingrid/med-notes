@@ -1,1 +1,0 @@
-Limite de idade: 7m 29d

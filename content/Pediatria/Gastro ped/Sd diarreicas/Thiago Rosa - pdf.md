@@ -1,1 +1,0 @@
-![[Resumo-Sndromes Diarreicas em Pediatria.pdf]]

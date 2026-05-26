@@ -1,3 +1,0 @@
-É caracterizada pela presença de albuminúria persistente em níveis moderadamente aumentados (anteriormente conhecida como microalbuminúria). A creatinina sérica e, consequentemente, a taxa de filtração glomerular (TFG) podem permanecer normais por um longo período, mesmo com a presença de lesão renal incipiente.
-
-A <mark style="background:#fff88f">relação albumina/creatinina urinária</mark> é o método de escolha para o rastreamento da albuminúria.

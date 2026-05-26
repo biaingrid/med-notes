@@ -1,5 +1,0 @@
-Temos angioedema, urticária generalizada, estridor inspiratório, retração de fúrcula (indicando obstrução de via aérea superior), hipotensão (PA 70/40 mmHg para 5 anos é preocupante!), taquicardia, taquipneia e hipoxemia (SatO2 86%). A picada de abelha é o gatilho perfeito para essa reação sistêmica e potencialmente fatal.
-
-A medicação de escolha, a estrela do tratamento da anafilaxia, é a epinefrina (ou adrenalina). Ela age rapidamente revertendo a broncoconstrição, a vasodilatação e o edema, além de aumentar a pressão arterial e a frequência cardíaca.
-
-Agora, vamos à dose e via: Para crianças, a dose recomendada de epinefrina é de 0,01 mg/kg de peso. Rafael pesa 23 kg. Cálculo: 0,01 mg/kg * 23 kg = 0,23 mg. A via de administração preferencial e mais eficaz para a anafilaxia é a INTRAMUSCULAR (IM), geralmente na face lateral da coxa. A absorção é mais rápida e previsível do que a via subcutânea. A concentração utilizada para IM é de 1:1000 (que corresponde a 1 mg/mL). Assim, 0,23 mg correspondem a 0,23 mL da solução 1:1000.

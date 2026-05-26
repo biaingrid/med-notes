@@ -1,2 +1,0 @@
-- **Vacinas vivas atenuadas:** devem ser administradas <mark style="background:rgba(5, 117, 197, 0.2)">pelo menos 30 dias antes</mark> do início de qualquer terapia imunossupressora. 
-- **Vacinas vivas**: pode levar à doença vacinal

@@ -1,3 +1,0 @@
-- N-acetilcisteína
-	- Antídoto de Paracetamol
-		- Atua como um precursor da glutationa, um antioxidante endógeno que é crucial para a desintoxicação do metabólito tóxico do paracetamol, o N-acetil-p-benzoquinona imina (NAPQI). Em doses terapêuticas, o NAPQI é rapidamente conjugado com a glutationa e excretado. No entanto, em superdosagem, as reservas de glutationa são esgotadas, permitindo que o NAPQI se ligue covalentemente às proteínas hepáticas, causando necrose hepatocelular. A NAC repõe as reservas de glutationa, neutralizando o NAPQI e prevenindo o dano hepático.

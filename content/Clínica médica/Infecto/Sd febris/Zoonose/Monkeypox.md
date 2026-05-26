@@ -1,2 +1,0 @@
-- Acompanhamento
-	- Diário para indivíduos com alto risco para desenvolver formas graves da doença
