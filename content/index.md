@@ -10,11 +10,11 @@ Use o Explorer à esquerda para navegar pelas especialidades ou utilize a busca 
 
 ## Áreas principais
 
-- Clínica médica
-- Pediatria
-- GO
-- Cirúrgica
-- Preventiva
-- Medicações
-- Aulas
-- Provas e simulados
+- 🫀 [[Clínica médica]]
+- 👶 [[Pediatria]]
+- 🤰 [[GO]]
+- 🔪 [[Cirúrgica]]
+- 🌎 [[Preventiva]]
+- 💊 [[Medicações]]
+- 📚 [[Aulas]]
+- 📝 [[Provas e simulados]]
