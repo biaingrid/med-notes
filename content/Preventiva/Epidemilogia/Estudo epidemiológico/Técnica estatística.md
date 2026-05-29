@@ -1,0 +1,2 @@
+### Metanálise
+<mark style="background:rgba(5, 117, 197, 0.2)">Frequentemente associada às revisões sistemáticas</mark>, a metanálise é uma técnica estatística que <mark style="background:rgba(5, 117, 197, 0.2)">combina os resultados quantitativos de múltiplos estudos incluídos em uma revisão sistemática.</mark> Ao agrupar os dados de vários Ensaios Clínicos Controlados Randomizados (ECCRs), a metanálise aumenta o poder estatístico e a precisão da estimativa do efeito da intervenção, fornecendo uma evidência ainda mais robusta.

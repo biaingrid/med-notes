@@ -1,0 +1,6 @@
+- Clínica
+	- Exantema maculopapular pruriginoso
+	- Febre
+		- Intensidade baixa ou ausente
+	- ==Hiperemia conjuntival/conjuntivite não purulenta==
+	- Artralgia/poli artralgia e edema periarticular

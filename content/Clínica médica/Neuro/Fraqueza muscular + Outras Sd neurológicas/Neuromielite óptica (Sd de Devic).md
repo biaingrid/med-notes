@@ -1,0 +1,24 @@
+- **Quadro clínico**
+	- Mulher jovem
+	- Dor à movimentação ocular
+	- Perda visual (escotoma central)
+	- Discromatopsia 
+	- Defeito pupilar aferente relativo (DPAR) no olho afetado 
+	- Sem edema de papila (sugerindo neurite retrobulbar) >> a forma mais comum)
+- **Etiologia**
+	- HAS: relevante, mas não o principal para diagnóstico etiológico
+- **Exames complementares**
+	- Ressonância magnética
+		- A ressonância magnética de crânio, com sequências específicas para desmielinização e contraste, é fundamental para investigar a causa subjacente, como a EM, e guiar o prognóstico e o manejo a longo prazo
+- **Tratamento**
+	- Pulsoterapia com metilprednisolona EV
+		- 1g/dia por 3-5 dias
+		- Acelera recuperação visual 
+		- Pode reduzir risco de desenvolvimento de esclerose múltipla em pacientes com lesões desmielinizantes na RM cerebral
+
+
+- **Neurite Óptica:** Inflamação do nervo óptico, comum em mulheres jovens.
+- **Sintomas Clássicos:** Dor à movimentação ocular, perda visual (escotoma central), discromatopsia.
+- **Sinal Chave:** Defeito Pupilar Aferente Relativo (DPAR).
+- **Tratamento Agudo:** Pulsoterapia com metilprednisolona intravenosa.
+- **Investigação Etiológica:** Ressonância Magnética de crânio com contraste para avaliar desmielinização.

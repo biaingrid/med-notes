@@ -1,0 +1,1 @@
+Menino, 10 anos de idade, apresenta dificuldade escolar, diabetes diagnosticado há 2 anos, em uso de insulina, e intolerância ao exercício notada nas aulas de educação física: consegue correr por 10 minutos, quando apresenta dor em queimação nas coxas e panturrilhas. Que exame laboratorial é o marcador para a principal hipótese diagnóstica?

@@ -1,0 +1,1 @@
+Paciente com febre e sintomas gripais: procurar médico imediatamente

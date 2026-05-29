@@ -1,0 +1,9 @@
+- Aplicada ao 1 mês de vida
+- Proteção contra:
+	- TB miliar
+	- Meningite tuberculosa
+- Não impede infecção pelo Mycobacterium tuberculosis
+- Complicação
+	- Abscesso frio: lesão flutuante, indolor, sem sinais flogísticos clássicos de infecção bacteriana aguda (calor, rubor)
+	- Linfadenite supurativa
+	- Ambos tratam com isoniazida até resolução do caso

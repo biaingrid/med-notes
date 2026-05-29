@@ -1,0 +1,10 @@
+- Etiologia
+	- Clamídia
+	- Gonorreia
+- Clínica
+	- ==Colo friável e sangrante ao toque==
+	- Muco amarelo-esverdeado
+	- Dor à mobilização 
+	- Os 3 são patognomônicos a cervicite
+- Tratamento
+	- Doxiciclina

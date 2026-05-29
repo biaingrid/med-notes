@@ -1,0 +1,9 @@
+Conceito proposto em 2004 que estabelece 4 dimensões interconectadas e interdependentes para orientar a formação e educação permanente dos profissionais de saúde no contexto do SUS.
+
+### Os quatro vértices do quadrilátero
+| Vértice             | Descrição                                                                                                                                                        | Atores Envolvidos                                                     |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| **Ensino**          | <mark style="background:rgba(240, 200, 0, 0.2)">Instituições formadoras</mark> (universidades, escolas técnicas) responsáveis pela formação inicial e continuada | Docentes, estudantes, instituições de ensino superior                 |
+| **Gestão**          | <mark style="background:rgba(240, 200, 0, 0.2)">Gestores do sistema de saúde</mark> que definem políticas, alocam recursos e organizam os serviços               | Secretarias de Saúde, Ministério da Saúde, gestores locais            |
+| **Atenção**         | Práticas de cuidado e serviços de saúde onde ocorre o trabalho cotidiano                                                                                         | Profissionais de saúde, equipes multiprofissionais, serviços de saúde |
+| **Controle Social** | Participação da comunidade na formulação e fiscalização das políticas de saúde                                                                                   | Conselhos de Saúde, Conferências de Saúde, usuários do SUS            |

@@ -1,0 +1,95 @@
+A DIP é uma infecção do trato genital superior feminino, que pode envolver o útero (endometrite), as tubas uterinas (salpingite) e os ovários (ooforite), podendo levar a peritonite pélvica. É uma das causas mais comuns de dor pélvica aguda em mulheres jovens e sexualmente ativas.
+
+- **Etiologia**
+	- _Chlamydia trachomatis_
+		- Agente etiológico mais comum de DIP
+		- Quadro clínico
+			- Geralmente assintomático ou oligossintomático
+		- Evolução
+			- **Hidrossalpinge**
+			- Infertilidade
+	- _Neisseria gonorrhoeae_
+		- Exame ginecológico
+			- Colo hiperemiado com secreção mucopurulenta
+			- Sangramento ao toque
+			- Manipulação dolorosa do colo
+		- pH vaginal normal (<4,5)
+		- Teste de Whiff negativo
+- **Quadro clínico**
+	- Dor pélvica aguda
+	- Sangramento vaginal pós relação
+	- Dispareunia
+	- Disúria
+	- Secreção branco-amarelada
+	- Febre
+	- Defesa abdominal 
+		- Irritação peritoneal
+	- Exame ginecológico doloroso com mobilização do colo uterino e anexos
+		- Sinal de candelabro: dor à mobilização do colo >> sinal clássico
+	- Ectocérvice friável e sangrante
+		- Sugere cervicite - frequentemente precede ou acompanha DIP
+- **Critérios maiores e menores**
+	- <u>Maiores</u>
+		- Dor hipogástrica à palpação
+			- Geralmente bilateral, de início recente
+			- Pode estar acompanhada de outros sintomas: dispareunia, sangramento uterino anormal e corrimento vaginal
+		- Dor à mobilização do colo uterino (sinal do candelabro)
+		- Dor à palpação dos anexos uterinos
+	- <u>Menores</u>
+		- PCR elevada
+- **Achados de exames**
+	- <u>Imagem</u>
+		- USG
+			- Massa cística de conteúdo denso >> sugestivo de abscesso tubo ovariano ou processo inflamatório
+				- Indicação de internação hospitalar
+			- Líquido livre em fundo de saco
+			- Sinal da roda dentada >> patognomônico de abscesso tubo-ovariano (ATO)
+	- <u>Laboratorial</u>
+		- PCR elevada
+- **Diagnóstico**
+	- Salpingite
+	- Cervicite
+		- ![[Pasted image 20260212182207.png]]
+- **Diagnóstico diferencial**
+	- Gravidez ectópica
+		- Realizar beta hCG
+- **Tratamento**
+	- Ceftriaxona
+		- Gonorreia
+	- Doxaciclina
+		- Clamídia
+		- Por 14 dias
+	- Azitromicina
+		- Clamídia
+		- Dose única 1g
+		- Alternativa à Doxaciclina, principalmente em casos de intolerância ou dificuldade de adesão ao tratamento prolongado
+	- Metronidazol
+		- Anaeróbios
+	- Antibioticoterapia amplo espectro VO por 14 dias + reavaliação clínica em 3 dias (48-72h)
+- **Complicações**
+	- Infertilidade
+	- Dor pélvica crônica
+	- Gravidez ectópica
+	- Massa pélvica >> indica estágio avançado da doença
+	- Abscesso tubo-ovariano
+	- [[Síndrome de Fitz-Hugh-Curtis]]
+- **Critérios para internação hospitalar**
+	- Falha no tratamento ambulatorial
+	- Gestação
+	- Imunodeficiência
+	- Abscesso tubo-ovariano
+	- Dúvida diagnóstica
+	- DIP grave
+		- Febre alta
+		- Náuseas/vômitos
+		- Sinais de peritonite
+		- Dor intensa
+- **Critérios para tratamento ambulatorial**
+	- Ausência de gravidez
+	- Ausência de imunodeficência
+	- Ausência de abscesso tubo-ovariano grande ou roto
+	- Ausência de doença grave (sepse, peritonite)
+	- Capacidade de tolerar medicação oral
+- **Adendos**
+	- As diretrizes atuais não recomendam a remoção rotineira do DIU em casos de DIP leve a moderada, pois a remoção pode, paradoxalmente, disseminar a infecção. A remoção do DIU só deve ser considerada se não houver melhora clínica após 48-72 horas de antibioticoterapia, ou em casos de DIP grave/abscesso tubo-ovariano, e sempre _após_ o início dos antibióticos
+

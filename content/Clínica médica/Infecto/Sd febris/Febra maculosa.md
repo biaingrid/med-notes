@@ -1,0 +1,28 @@
+- Zoonose de notificação compulsória
+	- Notificar município, secretaria estadual e ministério da saúde
+- Etiologia
+	- Bactéria gênero Rickettsia
+	- Transmissão: carrapato-estrela (Amblyomma sculptum)
+- Clínica
+	- Sintomas iniciais inespecíficos:
+		- Febre alta
+		- Cefaleia intensa
+		- Mialgia
+		- Artralgia
+		- Náuseas
+		- Vômitos
+		- Prostração 
+	- Exantema maculopapular - surge entre o 3º e 5º dia de doença
+		- Inicia nas extremidade - punhos e tornozelos, progredindo para o tronco, palmas das mãos e plantas dos pés
+- Diagnóstico
+	- Laboratorial
+		- Sorologia por imunofluorescência indireta - RIFI
+			- Positiva após 7-10 dias da doença
+			- Refazer exame entre 14-21 dias para ver soroconversão ou aumento do título
+		- PCR
+- Mortalidade
+	- A cada dia de atraso do início do tratamento, a mortalidade aumenta
+- Tratamento
+	- Diante de um quadro clínico compatível (febre de início súbito, cefaleia, mialgia, etc.) e um histórico epidemiológico relevante (exposição a áreas de mata, rios, fazendas, ou contato com carrapatos em regiões endêmicas nos últimos 15 dias), o tratamento com doxiciclina deve ser iniciado _imediatamente_, de forma empírica. 
+	- Doxiciclina
+		- VO ou EV -  dependendo da gravidade do paciente

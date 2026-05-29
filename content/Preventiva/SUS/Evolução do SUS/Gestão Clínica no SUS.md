@@ -1,0 +1,7 @@
+A Gestão Clínica refere-se a um conjunto de tecnologias e práticas que visam otimizar o processo de cuidado ao paciente, garantindo a qualidade, a segurança e a eficiência dos serviços de saúde. Ela se concentra na microgestão dos processos assistenciais e na melhoria contínua dos resultados em saúde.
+
+- **A – Auditoria clínica:** Esta é, sim, uma ferramenta fundamental da Gestão Clínica. A auditoria clínica avalia a qualidade do cuidado prestado, verifica a conformidade com protocolos e diretrizes, identifica áreas de melhoria e contribui para a tomada de decisões baseadas em evidências. É um pilar para aprimorar os processos assistenciais.
+    
+- **B – Gestão da condição de saúde (ou gestão de doenças crônicas):** Absolutamente! Esta tecnologia foca no acompanhamento longitudinal de pacientes com condições de saúde específicas, especialmente as crônicas. O objetivo é coordenar o cuidado, promover a adesão ao tratamento, prevenir complicações e melhorar a qualidade de vida, sendo uma estratégia central da Gestão Clínica.
+    
+- **C – Gestão de casos:** Outra ferramenta essencial da Gestão Clínica. A gestão de casos envolve a coordenação individualizada do cuidado para pacientes com necessidades complexas, que demandam múltiplos serviços e profissionais. O gestor de casos atua para garantir que o paciente receba o cuidado certo, no momento certo e no local certo, de forma integrada e eficiente.

@@ -1,0 +1,28 @@
+- **Etiologia**
+	- _Trichomonas vaginalis_
+- **Quadro clínico**
+	- Corrimento amarelo-esverdeado e bolhoso
+		- Bolhoso = produção de gás pelo parasita
+	- Odor fétido
+	- Prurido
+	- Disúria
+	- Dispareunia
+	- Sinusorragia
+	- Microulcerações vaginais e no colo uterino
+	- ==Colo uterino com aspecto de morango (colpite em framboesa)==
+	- ==Teste de Schiller com aparência tigroide==
+	- pH vaginal em torno de 7,5
+- **Tratamento**
+	- Metronidazol
+		- VO 
+			- 500mg, 2x/dia por 7 dias
+		- Gel vaginal
+			- 0,75%, 1 aplicados à noite por 5 dias
+	- ==Tratar parceiro==
+- **Achados de exame**
+	- Exame especular
+		- Colo uterino com aspecto de morango (colpite em framboesa)
+		- Teste de Schiller com aparência tigroide
+		- Resultado da hiperemia e das petéquias no colo uterino, que ficam mais evidentes após a aplicação de lugol
+- Diagnóstico
+	- Exame a fresco da secreção vaginal: parasitas flagelados com seus característicos movimentos pendulares ou rotatórios
